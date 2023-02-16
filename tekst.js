@@ -12,5 +12,10 @@ let wordSit2 = text.substring(19, 19 + 3);
 let text2= text.replace("amet", "elit");
 console.log(text2);
 
-return;
 
+
+text += "consecur ovo ono ililili";
+
+console.log(text);
+
+return;
