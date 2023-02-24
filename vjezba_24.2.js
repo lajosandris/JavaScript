@@ -41,5 +41,7 @@ console.log("auto vozi nakon ubrzanja brzinom " + auto.ubrzaj(10));
 console.log("auto vozi nakon kocenja brzinom " + auto.zakoci(2));
 
 
+
+
 let json= JSON.stringify(auto);
 console.log(json);
